@@ -42,7 +42,7 @@ footer {
     font-family: "Permanent Marker", serif;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 480px) {
     body {
         background-color: #F0EDCF;
     }
